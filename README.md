@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Mesones</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">Welcome to my GitHub profile !</h3>
 
 - 📫 How to reach me : **[LinkedIn](https://www.linkedin.com/in/hugo-mesones)**
 
